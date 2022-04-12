@@ -3,7 +3,7 @@
 <h4>
   My name is Kevin Kipkemoi.👋🤓
 </h4>
- <p>Skilled Software Developer with Extensive experience in Java, Spring Boot, Hibernate,ReactJs,Angular along with Data Structures & Algorithms.
+ <p>Lerning Software Developer with interest in ReactJs,Angular along with Data Structures & Algorithms.
 </p>
 <h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
 
@@ -15,7 +15,7 @@
 <div>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="200" />
 
-### 🛠 &nbsp; Tech Stack  
+### 🛠 &nbsp; Full Stack  
 <br>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
