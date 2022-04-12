@@ -37,7 +37,7 @@
 
 <br>
 <br>
-<h3>
+<!-- <h3>
   <summary>
     📈  &nbsp; My GitHub Stats
   </summary> 
@@ -56,7 +56,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{saretoduncan}/count.svg" /></p> 
 <br></div>
 
-<br>
+<br> -->
 
 ### 🤝🏻  &nbsp; Let's Connect 
 
