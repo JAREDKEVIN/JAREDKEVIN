@@ -60,8 +60,8 @@
 
 ### 🤝🏻  &nbsp; Let's Connect 
 
-- linkedIn: [KEVIN KIPKEMOI](https://www.linkedin.com/in/duncan-sareto)
-- twitter: [INSTAGRAM](https://twitter.com/duncan_sareto)
+- linkedIn: [KEVIN KIPKEMOI](https://www.linkedin.com/in/kevin-kipkemoi-595088ba)
+- twitter: [INSTAGRAM]()
 - email: cefinlotich@gmail.com
 
 <hr>
