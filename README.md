@@ -1,5 +1,5 @@
-Hi 👋 My name is KEVIN KIPKEMOI
-===============================WEB AND CLOUD DEVELOPER.------------------------\- 
+# Hi 👋 My name is KEVIN KIPKEMOI
+## WEB AND CLOUD DEVELOPER.------------------------\- 
 🔭 I’m daily working on \*\*Sharpening my skills and developing projects with developers from all over the globe.\*\* 
 - ⚡ Fact: \*\*"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).\*\** 
 - 🌍  I'm based in KENYA* 🖥️  See my portfolio at [https://www.linkedin.com/in/kevin-kipkemoi-595088ba](http://dev.to/jaredkevin)* 
