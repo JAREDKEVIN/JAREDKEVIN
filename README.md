@@ -1,68 +1,30 @@
-<h1><i>Hello there!  👨🏻‍💻 👨🏻‍💻 👨🏻‍💻 </i> 
+Hi 👋 My name is KEVIN KIPKEMOI
+===============================WEB AND CLOUD DEVELOPER.------------------------\- 🔭 I’m daily working on \*\*Sharpening my skills and developing projects with developers from all over the globe.\*\* - ⚡ Fact: \*\*"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).\*\** 🌍  I'm based in KENYA* 🖥️  See my portfolio at [https://www.linkedin.com/in/kevin-kipkemoi-595088ba](http://dev.to/jaredkevin)* ✉️  You can contact me at [cefinlotich@gmail.com](mailto:cefinlotich@gmail.com)* 🧠  I'm learning FLASK* 🤝  I'm open to collaborating on - 👯 JavaScript, Angular,Flask and React Projects.* ⚡  - 💬 Ask me about \*\*Technology, Troubleshooting, Psychology, Spirituality.\*\*
 
-<h4>
-  My name is Kevin Kipkemoi.👋🤓
-</h4>
- <p>Lerning Software Developer with interest in ReactJs,Angular along with Data Structures & Algorithms.
-</p>
-<h3> 👨🏻‍💻 &nbsp; More About Me:</h3> 
+<a href="https://www.github.com/JAREDKEVIN" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/JAREDKEVIN?logo=github&style=for-the-badge&color=0891b2&labelColor=7f1d1d" /></a>
 
-- 🔭  I’m daily working on **Sharpening my skills and developing projects with developers from all over the globe.**
-- ⚡  Fact: **"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).**
-- 👯  I’m looking forward to collaborate on **JavaScript,React Projects.**
-- 💬  Ask me about **Technology, Troubleshooting, Psychology, Spirituality, Art.**
+### Skills
 
-<div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500" height="200" />
+<p align="left"><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a></p>
+### Socials<p align="left"> <a href="https://www.dev.to/jaredkevin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/JAREDKEVIN" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kevin-kipkemoi-595088ba/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/watch?v=WIQn7houaQ8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
-### 🛠 &nbsp; Full Stack  
-<br>
+### Badges
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"></code>
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/JAREDKEVIN"><img src="https://github-readme-stats.vercel.app/api?username=JAREDKEVIN&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&show_icons=true" alt="JAREDKEVIN's GitHub stats" /></a>
 
-<br>
+<a href="http://www.github.com/JAREDKEVIN"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JAREDKEVIN&stroke=facc15&background=7f1d1d&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-**And counting, As I always appreciate any learning opportunity.**
+<a href="http://www.github.com/JAREDKEVIN"><img src="https://activity-graph.herokuapp.com/graph?username=JAREDKEVIN&bg_color=7f1d1d&color=facc15&line=0891b2&point=facc15&area_color=7f1d1d&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<div/>
+<a href="https://github.com/JAREDKEVIN" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAREDKEVIN&langs_count=10&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=7f1d1d&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<br>
-<br>
-<!-- <h3>
-  <summary>
-    📈  &nbsp; My GitHub Stats
-  </summary> 
-  
-  <br>
+<b>Top Repositories</b>
 
-  <p align="center">
-   <a href="https://github.com/saretoduncan">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saretoduncan&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saretoduncan&show_icons=true&theme=midnight-purple&layout=compact" alt="sareto" />
-  </a>
-</p>
-</h3>
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{saretoduncan}/count.svg" /></p> 
-<br></div>
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-<br> -->
+### Support Me
 
-### 🤝🏻  &nbsp; Let's Connect 
-
-- linkedIn: [KEVIN KIPKEMOI](https://www.linkedin.com/in/kevin-kipkemoi-595088ba)
-- twitter: [INSTAGRAM]()
-- email: cefinlotich@gmail.com
-
-<hr>
-<hr>
+<a href="https://www.buymeacoffee.com/jaredkevin"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
