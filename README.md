@@ -4,7 +4,7 @@
 - ⚡ Fact: \*\*"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).\*\** 
 - 🌍  I'm based in KENYA* 🖥️  See my portfolio at [https://www.linkedin.com/in/kevin-kipkemoi-595088ba](http://dev.to/jaredkevin)* 
 - ✉️  You can contact me at [cefinlotich@gmail.com](mailto:cefinlotich@gmail.com)* 
-- 🧠  I'm learning FLASK* 🤝  I'm open to collaborating on - 👯 JavaScript, Angular,Flask and React Projects.*
+- 🧠  I'm learning DJANGO* 🤝  I'm open to collaborating on - 👯 JavaScript, Angular,Flask and DJANGO Projects.*
 -  ⚡  - 💬 Ask me about \*\*Technology, Troubleshooting, Psychology, Spirituality.\*\*
 
 <a href="https://www.github.com/JAREDKEVIN" target="_blank" rel="noreferrer"><img
