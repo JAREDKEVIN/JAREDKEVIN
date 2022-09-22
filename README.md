@@ -2,7 +2,7 @@
 ## WEB AND CLOUD DEVELOPER.------------------------\- 
 🔭 I’m daily working on \*\*Sharpening my skills and developing projects with developers from all over the globe.\*\* 
 - ⚡ Fact: \*\*"Good code is like a good joke: It needs no explanation". Russ Olsen(Eloquent Ruby).\*\** 
-- 🌍  I'm based in KENYA* 🖥️  See my portfolio at [LinkedIn](https://www.linkedin.com/in/kevin-kipkemoi/)* 
+- 🌍  I'm based in KENYA* 🖥️  See my portfolio on [LinkedIn](https://www.linkedin.com/in/kevin-kipkemoi/)* 
 - ✉️  You can contact me at [cefinlotich@gmail.com](mailto:cefinlotich@gmail.com)* 
 - 🧠  I'm learning DJANGO* 🤝  I'm open to collaborating on - 👯 JavaScript, Angular,Flask and DJANGO Projects.*
 -  ⚡  - 💬 Ask me about \*\*Technology, Troubleshooting, Psychology, Spirituality.\*\*
